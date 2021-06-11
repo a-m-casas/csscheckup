@@ -1,0 +1,19 @@
+/* rule-set #2: Everything within a css-classes class will have a lightgray background. */
+.css-classes {
+  background-color: lightgray;
+}
+
+/* rule-set #3: All h1 tags within the css-classes class will have a font-size of 18 pixels. */
+.css-classes h1 {
+  font-size: 18px;
+}
+
+/* 4 */
+.margins-padding {
+  border: 2px solid blue;
+  margin-top: 50px;
+  margin-bottom: 200px;
+  margin-right: 250px;
+  margin-left: 200px;
+  padding: 20 px 20 px 20 px 40 px;
+}
